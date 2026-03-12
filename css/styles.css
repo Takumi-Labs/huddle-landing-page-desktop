@@ -1,0 +1,16 @@
+/* CUSTOM PROPERTIES
+-------------------------- */
+
+:root {
+  --color-purple: #674baf;
+  --color-magenta: #e882e8;
+  --color-white: #ffffff;
+}
+
+/* GLOBAL STYLES 
+----------------------------- */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
