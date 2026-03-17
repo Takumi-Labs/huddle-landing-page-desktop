@@ -26,10 +26,9 @@ body {
   margin-bottom: 0;
   padding: 10px 50px;
   padding-bottom: 0;
-  width: 90%;
+  width: 100%;
   color: var(--color-white);
   background-image: url(/images/bg-desktop.svg);
-  background-color: var(--color-purple);
   background-repeat: no-repeat;
   background-size: cover;
   text-align: left;
