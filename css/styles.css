@@ -17,7 +17,7 @@
 }
 
 body {
-  background-color: var(--color-dark-blue);
+  background-color: var(--color-purple);
 }
 
 .container {
@@ -62,7 +62,7 @@ body {
 
 .main-paragraph {
   margin-bottom: 50px;
-  padding: 0 25px;
+  padding: 0 ;
 }
 
 .open-sans-uniquifier {
