@@ -94,7 +94,6 @@ body {
 .socials {
   display: flex;
   width: 5%;
-  padding-bottom: 30px;
   margin: 60px auto;
   margin-right: 60px;
   justify-content: center;
