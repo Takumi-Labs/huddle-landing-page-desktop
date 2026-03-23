@@ -28,7 +28,7 @@ body {
   padding-bottom: 0;
   width: 100%;
   color: var(--color-white);
-  background-image: url(/images/bg-desktop.svg);
+  background-image: url(../images/bg-desktop.svg);
   background-repeat: no-repeat;
   background-size: cover;
   text-align: left;
